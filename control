@@ -1,7 +1,7 @@
 Source: keepassxc
 Section: utils
 Priority: optional
-Maintainer: Manolis Agkopian <m.agkopian@gmail.com>
+Maintainer: Michal Belica <devel@beli.sk>
 Build-Depends: debhelper (>= 9),
                cmake (>= 3.1),
                qtbase5-dev (>= 5.2),
